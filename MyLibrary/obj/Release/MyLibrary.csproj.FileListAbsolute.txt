@@ -1,0 +1,6 @@
+c:\users\sislyaev\documents\visual studio 2012\Projects\MyLibrary\bin\Release\FirstAddIn.dna
+c:\users\sislyaev\documents\visual studio 2012\Projects\MyLibrary\bin\Release\FirstAddIn.xll
+c:\users\sislyaev\documents\visual studio 2012\Projects\MyLibrary\bin\Release\MyLibrary.dll
+c:\users\sislyaev\documents\visual studio 2012\Projects\MyLibrary\bin\Release\MyLibrary.pdb
+c:\users\sislyaev\documents\visual studio 2012\Projects\MyLibrary\obj\Release\MyLibrary.dll
+c:\users\sislyaev\documents\visual studio 2012\Projects\MyLibrary\obj\Release\MyLibrary.pdb

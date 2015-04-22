@@ -1,0 +1,7 @@
+c:\users\sislyaev\documents\visual studio 2012\Projects\MyLibrary\bin\Debug\FirstAddIn.dna
+c:\users\sislyaev\documents\visual studio 2012\Projects\MyLibrary\bin\Debug\FirstAddIn.xll
+c:\users\sislyaev\documents\visual studio 2012\Projects\MyLibrary\bin\Debug\MyLibrary.dll
+c:\users\sislyaev\documents\visual studio 2012\Projects\MyLibrary\bin\Debug\MyLibrary.pdb
+c:\users\sislyaev\documents\visual studio 2012\Projects\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+c:\users\sislyaev\documents\visual studio 2012\Projects\MyLibrary\obj\Debug\MyLibrary.dll
+c:\users\sislyaev\documents\visual studio 2012\Projects\MyLibrary\obj\Debug\MyLibrary.pdb
